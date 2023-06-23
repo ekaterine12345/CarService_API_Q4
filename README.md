@@ -10,7 +10,9 @@ DELETE - http://localhost:8585/cars/delete/9   admin admin
 
 
 
+
 server.port=8585
+
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 
 spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
